@@ -236,7 +236,7 @@ stores them, and avoids upload time on large files.
 | **Price** | $0 |
 | **Version** | 2026 build |
 
-*logo-maker-pc-app · Updated 2026-10-29 · Shared under the MIT License*
+*logo-maker-pc-app · Updated 2026-10-30 · Shared under the MIT License*
 
 
-Updated 2026-10-29.
+Updated 2026-10-30.
